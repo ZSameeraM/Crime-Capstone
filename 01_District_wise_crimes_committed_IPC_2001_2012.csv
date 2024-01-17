@@ -1,0 +1,809 @@
+StateUT,District,YEAR,MURDER,ATTEMPT TO MURDER,RAPE
+Andhra Pradesh,Adilabad,2001,101,60,50
+Andhra Pradesh,Anantapur,2001,151,125,23
+Andhra Pradesh,Chittoor,2001,101,57,27
+Andhra Pradesh,Cuddapah,2001,80,53,20
+Andhra Pradesh,East Godavari,2001,82,67,23
+Andhra Pradesh,Guntakal Rly.,2001,3,1,0
+Andhra Pradesh,Guntur,2001,182,88,54
+Andhra Pradesh,Hyderabad City,2001,111,113,37
+Andhra Pradesh,Karimnagar,2001,162,85,56
+Andhra Pradesh,Khammam,2001,93,60,47
+Andhra Pradesh,Krishna,2001,65,51,37
+Andhra Pradesh,Kurnool,2001,133,72,29
+Andhra Pradesh,Mahaboobnagar,2001,157,67,59
+Andhra Pradesh,Medak,2001,101,56,35
+Andhra Pradesh,Nalgonda,2001,122,60,35
+Andhra Pradesh,Nellore,2001,89,69,46
+Andhra Pradesh,Nizamabad,2001,106,49,21
+Andhra Pradesh,Prakasham,2001,102,82,19
+Andhra Pradesh,Ranga Reddy,2001,214,95,72
+Andhra Pradesh,Secunderabad Rly.,2001,6,0,0
+Andhra Pradesh,Srikakulam,2001,38,10,8
+Andhra Pradesh,Vijayawada,2001,53,44,25
+Andhra Pradesh,Vijayawada Rly.,2001,2,1,1
+Andhra Pradesh,Visakha Rural,2001,58,29,12
+Andhra Pradesh,Visakhapatnam,2001,22,10,13
+Andhra Pradesh,Vizianagaram,2001,33,14,8
+Andhra Pradesh,Warangal,2001,158,79,53
+Andhra Pradesh,West Godavari,2001,77,58,61
+Andhra Pradesh,Total,2001,2602,1555,871
+Arunachal Pradesh,Changlang,2001,11,2,1
+Arunachal Pradesh,Dibang Valley,2001,3,5,2
+Arunachal Pradesh,Kameng East,2001,3,1,2
+Arunachal Pradesh,Kameng West,2001,4,2,0
+Arunachal Pradesh,Lohit,2001,16,6,2
+Arunachal Pradesh,Papum Pare,2001,11,8,9
+Arunachal Pradesh,Siang East,2001,7,0,5
+Arunachal Pradesh,Siang Upper,2001,1,1,2
+Arunachal Pradesh,Siang West,2001,5,14,4
+Arunachal Pradesh,Subansiri Lower,2001,8,10,2
+Arunachal Pradesh,Subansiri Upper,2001,4,0,2
+Arunachal Pradesh,Tawang,2001,2,0,1
+Arunachal Pradesh,Tirap,2001,8,4,1
+Assam,Barpeta,2001,64,5,28
+Assam,Bongaigaon,2001,45,22,20
+Assam,C.I.D.,2001,0,0,0
+Assam,Cachar,2001,52,30,45
+Assam,Darrang,2001,61,13,48
+Assam,Dhemaji,2001,15,16,42
+Assam,Dhubri,2001,65,23,43
+Assam,Dibrugarh,2001,110,22,35
+Assam,G.R.P.,2001,13,1,1
+Assam,Goalpara,2001,28,12,35
+Assam,Golaghat,2001,53,2,30
+Assam,Guwahati City,2001,71,44,37
+Assam,Hailakandi,2001,18,4,24
+Assam,Jorhat,2001,40,22,42
+Assam,Kamrup,2001,37,30,21
+Assam,Karbi Anglong,2001,65,26,5
+Assam,Karimganj,2001,32,20,33
+Assam,Kokrajhar,2001,87,27,14
+Assam,Lakhimpur,2001,26,21,64
+Assam,Morigaon,2001,20,9,23
+Assam,N.C.Hills,2001,17,8,2
+Assam,Nagaon,2001,95,22,51
+Assam,Nalbari,2001,79,36,30
+Assam,R.P.O.,2001,11,0,3
+Assam,Sibsagar,2001,59,24,47
+Assam,Sonitpur,2001,86,25,53
+Assam,Tinsukia,2001,107,17,41
+Bihar,Araria,2001,47,27,93
+Bihar,Arwal,2001,37,64,0
+Bihar,Aurangabad,2001,74,46,16
+Bihar,Bagaha,2001,34,67,25
+Bihar,Banka,2001,93,16,34
+Bihar,Begusarai,2001,124,77,13
+Bihar,Bettiah,2001,66,9,20
+Bihar,Bhabhua,2001,41,25,10
+Bihar,Bhagalpur,2001,128,73,35
+Bihar,Bhojpur,2001,135,33,22
+Bihar,Buxar,2001,56,38,8
+Bihar,Darbhanga,2001,53,64,19
+Bihar,Gaya,2001,200,170,25
+Bihar,Gopalganj,2001,107,92,13
+Bihar,Jamalpur Rly.,2001,7,0,1
+Bihar,Jamui,2001,67,74,10
+Bihar,Jehanabad,2001,73,80,6
+Bihar,Katihar,2001,60,47,51
+Bihar,Katihar Rly.,2001,7,0,0
+Bihar,Khagaria,2001,72,27,5
+Bihar,Kishanganj,2001,25,15,22
+Bihar,Lakhisarai,2001,61,44,10
+Bihar,Madhepura,2001,56,23,11
+Bihar,Madhubani,2001,35,65,13
+Bihar,Motihari,2001,114,98,44
+Bihar,Munger,2001,51,108,11
+Bihar,Muzaffarpur,2001,153,162,73
+Bihar,Muzaffarpur Rly.,2001,13,3,2
+Bihar,Nalanda,2001,208,249,40
+Bihar,Naugachia,2001,36,65,7
+Bihar,Nawadah,2001,77,54,15
+Bihar,Patna,2001,434,581,27
+Bihar,Patna Rly.,2001,24,21,1
+Bihar,Purnea,2001,104,89,39
+Bihar,Rohtas,2001,127,112,25
+Bihar,Saharsa,2001,36,151,12
+Bihar,Samastipur,2001,107,115,19
+Bihar,Saran,2001,137,70,20
+Bihar,Sheikhpura,2001,28,1,3
+Bihar,Sheohar,2001,18,0,11
+Bihar,Sitamarhi,2001,51,5,23
+Bihar,Siwan,2001,116,150,4
+Bihar,Supaul,2001,41,61,30
+Bihar,Vaishali,2001,110,148,20
+Chhattisgarh,Balrampur,2001,13,2,17
+Chhattisgarh,Bilaspur,2001,99,42,69
+Chhattisgarh,Bizapur,2001,9,13,4
+Chhattisgarh,Dantewara,2001,83,37,19
+Chhattisgarh,Dhamtari,2001,14,6,22
+Chhattisgarh,Durg,2001,76,66,144
+Chhattisgarh,Grp Raipur,2001,2,1,0
+Chhattisgarh,Jagdalpur,2001,80,35,59
+Chhattisgarh,Janjgir,2001,48,29,29
+Chhattisgarh,Jashpur,2001,37,16,36
+Chhattisgarh,Kanker,2001,31,17,42
+Chhattisgarh,Kawardha,2001,19,12,35
+Chhattisgarh,Korba,2001,33,13,46
+Chhattisgarh,Koriya,2001,35,25,34
+Chhattisgarh,Mahasamund,2001,18,20,43
+Chhattisgarh,Raigarh,2001,50,24,53
+Chhattisgarh,Raipur,2001,92,102,104
+Chhattisgarh,Rajnandgaon,2001,36,27,58
+Chhattisgarh,Sarguja,2001,105,42,145
+Goa,North Goa,2001,22,16,4
+Goa,South Goa,2001,14,14,8
+Gujarat,Ahmedabad Commr.,2001,90,58,39
+Gujarat,Ahmedabad Rural,2001,26,17,5
+Gujarat,Ahwa-Dang,2001,6,0,1
+Gujarat,Amreli,2001,41,11,2
+Gujarat,Anand,2001,28,16,3
+Gujarat,Bharuch,2001,37,14,4
+Gujarat,Bhavnagar,2001,64,28,9
+Gujarat,Dahod,2001,36,8,5
+Gujarat,Gandhinagar,2001,25,11,4
+Gujarat,Himatnagar,2001,55,9,17
+Gujarat,Jamnagar,2001,48,27,20
+Gujarat,Junagadh,2001,56,37,14
+Gujarat,Kheda North,2001,42,5,11
+Gujarat,Kutch,2001,34,29,2
+Gujarat,Mehsana,2001,28,17,4
+Gujarat,Narmada,2001,16,3,8
+Gujarat,Navsari,2001,26,6,2
+Gujarat,Palanpur,2001,52,45,18
+Gujarat,Panchmahal,2001,56,13,5
+Gujarat,Patan,2001,24,18,3
+Gujarat,Porbandar,2001,15,9,6
+Gujarat,Rajkot Commr.,2001,29,33,5
+Gujarat,Rajkot Rural,2001,30,36,20
+Gujarat,Surat Commr.,2001,98,19,11
+Gujarat,Surat Rural,2001,62,8,26
+Gujarat,Surendranagar,2001,38,17,11
+Gujarat,Vadodara Commr.,2001,34,14,3
+Gujarat,Vadodara Rural,2001,71,13,18
+Gujarat,Valsad,2001,44,8,9
+Gujarat,W.Rly,2001,15,8,1
+Haryana,Ambala,2001,26,23,11
+Haryana,Bhiwani,2001,40,20,10
+Haryana,Faridabad,2001,68,38,37
+Haryana,Fatehabad,2001,18,23,17
+Haryana,Grp,2001,24,3,0
+Haryana,Gurgaon,2001,69,30,32
+Haryana,Hissar,2001,45,53,10
+Haryana,Jhajjar,2001,48,28,21
+Haryana,Jind,2001,37,21,21
+Haryana,Kaithal,2001,33,15,16
+Haryana,Karnal,2001,42,24,44
+Haryana,Kurukshetra,2001,20,8,31
+Haryana,Mahendragarh,2001,26,10,11
+Haryana,Panchkula,2001,12,7,6
+Haryana,Panipat,2001,43,26,38
+Haryana,Rewari,2001,21,13,11
+Haryana,Rohtak,2001,57,29,28
+Haryana,Sirsa,2001,37,33,17
+Haryana,Sonipat,2001,73,49,15
+Haryana,Yamunanagar,2001,42,14,22
+Himachal Pradesh,Chamba,2001,13,3,12
+Himachal Pradesh,Hamirpur,2001,2,5,3
+Himachal Pradesh,Kangra,2001,24,16,18
+Himachal Pradesh,Kinnaur,2001,5,0,6
+Himachal Pradesh,Kullu,2001,13,1,13
+Himachal Pradesh,Lahaul-Spiti,2001,1,0,2
+Himachal Pradesh,Mandi,2001,18,8,16
+Himachal Pradesh,Shimla,2001,14,13,18
+Himachal Pradesh,Sirmaur,2001,3,5,10
+Himachal Pradesh,Solan,2001,11,8,12
+Himachal Pradesh,Una,2001,6,6,9
+Jammu & Kashmir,Anantnag,2001,74,41,6
+Jammu & Kashmir,Awantipora,2001,25,3,1
+Jammu & Kashmir,Baramulla,2001,144,155,28
+Jammu & Kashmir,Border,2001,6,42,12
+Jammu & Kashmir,Budgam,2001,78,103,7
+Jammu & Kashmir,Crime Jammu,2001,0,0,0
+Jammu & Kashmir,Crime Srinagar,2001,0,0,0
+Jammu & Kashmir,Doda,2001,104,147,7
+Jammu & Kashmir,Ganderbal,2001,24,8,5
+Jammu & Kashmir,Jammu,2001,27,82,13
+Jammu & Kashmir,Kargil,2001,0,0,0
+Jammu & Kashmir,Kathua,2001,16,28,13
+Jammu & Kashmir,Kulgam,2001,39,16,6
+Jammu & Kashmir,Kupwara,2001,141,269,6
+Jammu & Kashmir,Leh,2001,3,1,0
+Jammu & Kashmir,Poonch,2001,100,189,13
+Jammu & Kashmir,Pulwama,2001,46,90,7
+Jammu & Kashmir,Railways,2001,1,1,0
+Jammu & Kashmir,Rajouri,2001,76,97,17
+Jammu & Kashmir,Ramban,2001,51,50,3
+Jammu & Kashmir,Reasi,2001,36,75,7
+Jammu & Kashmir,Srinagar,2001,63,49,8
+Jammu & Kashmir,Udhampur,2001,21,28,10
+Jharkhand,Bokaro,2001,70,75,26
+Jharkhand,Chaibasa,2001,109,34,32
+Jharkhand,Chatra,2001,40,10,6
+Jharkhand,Deoghar,2001,47,82,22
+Jharkhand,Dhanbad,2001,97,31,32
+Jharkhand,Dhanbad Rly.,2001,11,0,2
+Jharkhand,Dumka,2001,63,32,27
+Jharkhand,Garhwa,2001,32,6,11
+Jharkhand,Giridih,2001,63,65,42
+Jharkhand,Godda,2001,61,0,37
+Jharkhand,Gumla,2001,136,18,29
+Jharkhand,Hazaribagh,2001,76,35,41
+Jharkhand,Jamshedpur,2001,81,190,50
+Jharkhand,Jamshedpur Rly.,2001,4,0,1
+Jharkhand,Jamtara,2001,22,30,18
+Jharkhand,Koderma,2001,21,18,2
+Jharkhand,Latehar,2001,54,8,12
+Jharkhand,Lohardagga,2001,33,4,12
+Jharkhand,Pakur,2001,31,19,23
+Jharkhand,Palamu,2001,73,52,15
+Jharkhand,Ranchi,2001,243,65,73
+Jharkhand,Sahebganj,2001,47,34,20
+Jharkhand,Saraikela,2001,44,56,17
+Jharkhand,Simdega,2001,49,2,17
+Karnataka,Bagalkot,2001,59,34,2
+Karnataka,Bangalore Commr.,2001,221,327,40
+Karnataka,Bangalore Rural,2001,137,86,13
+Karnataka,Belgaum,2001,120,55,8
+Karnataka,Bellary,2001,58,41,16
+Karnataka,Bidar,2001,48,58,7
+Karnataka,Bijapur,2001,51,47,6
+Karnataka,Chamarajnagar,2001,19,18,4
+Karnataka,Chickmagalur,2001,41,24,8
+Karnataka,Chitradurga,2001,31,22,18
+Karnataka,Dakshin Kannada,2001,33,36,3
+Karnataka,Davanagere,2001,58,39,22
+Karnataka,Dharwad Commr.,2001,16,24,4
+Karnataka,Dharwad Rural,2001,25,10,3
+Karnataka,Gadag,2001,22,17,2
+Karnataka,Gulbarga,2001,95,83,20
+Karnataka,Hassan,2001,64,69,20
+Karnataka,Haveri,2001,24,17,3
+Karnataka,K.G.F.,2001,20,22,1
+Karnataka,Kodagu,2001,26,33,4
+Karnataka,Kolar,2001,69,72,17
+Karnataka,Koppal,2001,23,33,6
+Karnataka,Mandya,2001,67,47,15
+Karnataka,Mysore Commr.,2001,32,34,2
+Karnataka,Mysore Rural,2001,53,58,12
+Karnataka,Raichur,2001,33,38,12
+Karnataka,Shimoga,2001,56,48,12
+Karnataka,Tumkur,2001,80,55,6
+Karnataka,Udupi,2001,16,14,2
+Karnataka,Uttar Kannada,2001,17,14,4
+Kerala,Alapuzha,2001,22,32,21
+Kerala,Cbcid,2001,22,7,2
+Kerala,Ernakulam,2001,44,67,38
+Kerala,Idukki,2001,33,30,34
+Kerala,Kannur,2001,26,58,42
+Kerala,Kasargod,2001,18,23,28
+Kerala,Kollam,2001,41,65,55
+Kerala,Kottayam,2001,34,26,22
+Kerala,Kozhikode,2001,34,35,39
+Kerala,Malappuram,2001,23,33,71
+Kerala,Palakkad,2001,45,57,63
+Kerala,Pathanamthitta,2001,20,13,12
+Kerala,Thrissur,2001,42,79,42
+Kerala,Trivandrum,2001,53,79,57
+Kerala,Wayanadu,2001,15,11,35
+Madhya Pradesh,Balaghat,2001,56,43,87
+Madhya Pradesh,Barwani,2001,41,30,34
+Madhya Pradesh,Betul,2001,56,48,95
+Madhya Pradesh,Bhind,2001,63,97,31
+Madhya Pradesh,Bhopal,2001,61,109,106
+Madhya Pradesh,Bhopal Rly.,2001,5,3,1
+Madhya Pradesh,Chhatarpur,2001,54,72,65
+Madhya Pradesh,Chhindwara,2001,78,51,93
+Madhya Pradesh,Damoh,2001,43,78,66
+Madhya Pradesh,Datiya,2001,53,55,12
+Madhya Pradesh,Dewas,2001,50,112,78
+Madhya Pradesh,Dhar,2001,89,99,68
+Madhya Pradesh,Dindori,2001,13,4,20
+Madhya Pradesh,Guna,2001,71,72,124
+Madhya Pradesh,Gwalior,2001,84,168,59
+Madhya Pradesh,Harda,2001,14,12,28
+Madhya Pradesh,Hoshangabad,2001,53,57,65
+Madhya Pradesh,Indore,2001,111,133,84
+Madhya Pradesh,Indore Rly.,2001,6,4,2
+Madhya Pradesh,Jabalpur,2001,103,167,108
+Madhya Pradesh,Jabalpur Rly.,2001,3,0,0
+Madhya Pradesh,Jhabua,2001,124,119,44
+Madhya Pradesh,Katni,2001,51,37,25
+Madhya Pradesh,Khandwa,2001,41,46,63
+Madhya Pradesh,Khargon,2001,47,41,47
+Madhya Pradesh,Mandla,2001,35,13,64
+Madhya Pradesh,Mandsaur,2001,28,33,41
+Madhya Pradesh,Morena,2001,63,99,35
+Madhya Pradesh,Narsinghpur,2001,38,49,70
+Madhya Pradesh,Neemuch,2001,17,18,37
+Madhya Pradesh,Panna,2001,24,26,44
+Madhya Pradesh,Raisen,2001,39,79,79
+Madhya Pradesh,Rajgarh,2001,42,68,95
+Madhya Pradesh,Ratlam,2001,58,60,70
+Madhya Pradesh,Rewa,2001,53,54,31
+Madhya Pradesh,Sagar,2001,84,122,141
+Madhya Pradesh,Satna,2001,49,48,58
+Madhya Pradesh,Seoni,2001,40,25,52
+Madhya Pradesh,Shahdol,2001,57,28,63
+Madhya Pradesh,Shajapur,2001,42,46,90
+Madhya Pradesh,Sheopur,2001,24,30,21
+Madhya Pradesh,Shivpuri,2001,88,63,72
+Madhya Pradesh,Sidhi,2001,36,21,42
+Madhya Pradesh,Sihore,2001,35,54,59
+Madhya Pradesh,Tikamgarh,2001,53,46,86
+Madhya Pradesh,Ujjain,2001,84,163,59
+Madhya Pradesh,Umariya,2001,19,12,25
+Madhya Pradesh,Vidisha,2001,47,56,112
+Maharashtra,Ahmednagar,2001,97,41,44
+Maharashtra,Akola,2001,64,41,15
+Maharashtra,Amravati Commr.,2001,44,29,23
+Maharashtra,Amravati Rural,2001,72,23,42
+Maharashtra,Aurangabad Commr.,2001,36,27,14
+Maharashtra,Aurangabad Rural,2001,61,12,28
+Maharashtra,Beed,2001,68,43,22
+Maharashtra,Bhandara,2001,32,22,39
+Maharashtra,Buldhana,2001,49,32,22
+Maharashtra,Chandrapur,2001,49,26,43
+Maharashtra,Dhule,2001,48,25,16
+Maharashtra,Gadchiroli,2001,47,24,27
+Maharashtra,Gondia,2001,41,17,23
+Maharashtra,Hingoli,2001,36,27,20
+Maharashtra,Jalgaon,2001,83,44,19
+Maharashtra,Jalna,2001,43,24,16
+Maharashtra,Kolhapur,2001,54,33,26
+Maharashtra,Latur,2001,42,17,7
+Maharashtra,Mumbai,2001,295,200,127
+Maharashtra,Mumbai Rly.,2001,12,9,2
+Maharashtra,Nagpur Commr.,2001,112,70,39
+Maharashtra,Nagpur Rly.,2001,12,1,2
+Maharashtra,Nagpur Rural,2001,101,56,81
+Maharashtra,Nanded,2001,80,66,23
+Maharashtra,Nandurbar,2001,44,20,16
+Maharashtra,Nasik Commr.,2001,25,14,9
+Maharashtra,Nasik Rural,2001,92,54,39
+Maharashtra,Navi Mumbai,2001,34,18,17
+Maharashtra,Osmanabad,2001,48,13,16
+Maharashtra,Parbhani,2001,49,28,25
+Maharashtra,Pune Commr.,2001,71,44,56
+Maharashtra,Pune Rly.,2001,4,1,0
+Maharashtra,Pune Rural,2001,119,41,42
+Maharashtra,Raigad,2001,53,11,20
+Maharashtra,Ratnagiri,2001,17,5,10
+Maharashtra,Sangli,2001,85,24,32
+Maharashtra,Satara,2001,57,19,32
+Maharashtra,Sindhudurg,2001,14,4,7
+Maharashtra,Solapur Commr.,2001,30,14,16
+Maharashtra,Solapur Rural,2001,101,30,35
+Maharashtra,Thane Commr.,2001,133,81,39
+Maharashtra,Thane Rural,2001,140,33,65
+Maharashtra,Wardha,2001,60,25,35
+Maharashtra,Washim,2001,29,21,15
+Maharashtra,Yavatmal,2001,56,45,56
+Manipur,Bishnupur,2001,29,25,1
+Manipur,Chandel,2001,7,7,0
+Manipur,Churachandpur,2001,35,21,1
+Manipur,Imphal(East),2001,29,29,7
+Manipur,Imphal(West),2001,44,42,7
+Manipur,Senapati,2001,27,10,0
+Manipur,Tamenglong,2001,2,1,0
+Manipur,Thoubal,2001,32,32,4
+Manipur,Ukhrul,2001,4,1,0
+Meghalaya,Garo Hills East,2001,16,9,2
+Meghalaya,Garo Hills South,2001,6,3,1
+Meghalaya,Garo Hills West,2001,19,3,5
+Meghalaya,Jaintia Hills,2001,35,3,7
+Meghalaya,Khasi Hills East,2001,50,25,5
+Meghalaya,Khasi Hills West,2001,16,2,4
+Meghalaya,Ri-Bhoi,2001,22,2,2
+Mizoram,Aizawl,2001,12,6,26
+Mizoram,Champhai,2001,2,1,7
+Mizoram,Kolasib,2001,3,1,6
+Mizoram,Lawngtlai,2001,2,0,2
+Mizoram,Lunglei,2001,5,4,3
+Mizoram,Mamit,2001,4,0,0
+Mizoram,Saiha,2001,2,2,3
+Mizoram,Serchhip,2001,1,1,5
+Nagaland,Dimapur,2001,36,5,4
+Nagaland,Kiphire,2001,1,0,0
+Nagaland,Kohima,2001,25,16,6
+Nagaland,Mokokchung,2001,12,2,1
+Nagaland,Mon,2001,3,3,2
+Nagaland,Peren,2001,0,2,0
+Nagaland,Phek,2001,7,4,1
+Nagaland,Tuensang,2001,1,3,0
+Nagaland,Wokha,2001,12,3,1
+Nagaland,Zunheboto,2001,4,1,2
+Odisha,Angul,2001,39,27,33
+Odisha,Balasore,2001,17,10,58
+Odisha,Baragarh,2001,23,36,19
+Odisha,Berhampur,2001,23,52,10
+Odisha,Bhadrak,2001,27,10,35
+Odisha,Bolangir,2001,32,10,19
+Odisha,Boudh,2001,9,6,6
+Odisha,Cuttack,2001,35,143,34
+Odisha,Deogarh,2001,16,2,8
+Odisha,Dhenkanal,2001,25,30,15
+Odisha,Gajapati,2001,19,7,10
+Odisha,Ganjam,2001,58,92,22
+Odisha,Jagatsinghpur,2001,26,21,12
+Odisha,Jajpur,2001,21,16,24
+Odisha,Jharsuguda,2001,15,29,12
+Odisha,Kalahandi,2001,29,34,30
+Odisha,Kandhamal,2001,24,10,34
+Odisha,Kendrapara,2001,24,36,11
+Odisha,Keonjhar,2001,62,31,38
+Odisha,Khurda,2001,46,85,65
+Odisha,Koraput,2001,39,30,38
+Odisha,Malkangir,2001,36,27,14
+Odisha,Mayurbhanj,2001,74,45,77
+Odisha,Nayagarh,2001,26,43,17
+Odisha,Nowrangpur,2001,19,22,13
+Odisha,Nuapada,2001,13,2,9
+Odisha,Puri,2001,25,96,41
+Odisha,Rayagada,2001,35,17,9
+Odisha,Rourkela,2001,20,22,12
+Odisha,Sambalpur,2001,39,90,18
+Odisha,Sonepur,2001,9,20,8
+Odisha,Srp(Cuttack),2001,3,3,1
+Odisha,Srp(Rourkela),2001,7,1,2
+Odisha,Sundargarh,2001,72,46,36
+Punjab,Amritsar,2001,36,43,9
+Punjab,Barnala,2001,15,29,12
+Punjab,Batala,2001,18,24,8
+Punjab,Bhatinda,2001,25,38,13
+Punjab,Faridkot,2001,12,7,6
+Punjab,Fatehgarh Sahib,2001,16,23,11
+Punjab,Ferozepur,2001,50,53,22
+Punjab,G.R.P,2001,10,0,0
+Punjab,Gurdaspur,2001,22,20,12
+Punjab,Hoshiarpur,2001,47,30,19
+Punjab,Jagraon,2001,27,33,19
+Punjab,Jalandhar,2001,74,72,21
+Punjab,Kapurthala,2001,20,24,8
+Punjab,Khanna,2001,17,17,6
+Punjab,Ludhiana,2001,74,68,38
+Punjab,Majitha,2001,26,25,9
+Punjab,Mansa,2001,25,21,6
+Punjab,Moga,2001,23,32,11
+Punjab,Muktsar,2001,19,27,3
+Punjab,Nawan Shahr,2001,17,19,11
+Punjab,Patiala,2001,56,74,23
+Punjab,Ropar,2001,26,19,6
+Punjab,Sangrur,2001,46,45,15
+Punjab,Tarn Taran,2001,37,46,10
+Rajasthan,Ajmer,2001,39,47,16
+Rajasthan,Alwar,2001,85,83,34
+Rajasthan,Banswara,2001,40,24,90
+Rajasthan,Baran,2001,36,95,81
+Rajasthan,Barmer,2001,11,26,13
+Rajasthan,Bharatpur,2001,75,98,48
+Rajasthan,Bhilwara,2001,34,54,42
+Rajasthan,Bikaner,2001,21,101,35
+Rajasthan,Bundi,2001,33,72,36
+Rajasthan,Chittorgarh,2001,41,59,67
+Rajasthan,Churu,2001,26,40,24
+Rajasthan,Dausa,2001,28,21,9
+Rajasthan,Dholpur,2001,42,76,24
+Rajasthan,Dungarpur,2001,31,9,17
+Rajasthan,Ganganagar,2001,51,97,55
+Rajasthan,Hanumangarh,2001,56,83,35
+Rajasthan,Jaipur,2001,91,90,61
+Rajasthan,Jaisalmer,2001,9,0,2
+Rajasthan,Jalore,2001,17,35,10
+Rajasthan,Jhalawar,2001,38,99,65
+Rajasthan,Jhunjhunu,2001,37,19,19
+Rajasthan,Jodhpur,2001,30,79,20
+Rajasthan,Karauli,2001,35,0,21
+Rajasthan,Kota,2001,58,310,50
+Rajasthan,Nagaur,2001,48,17,22
+Rajasthan,Pali,2001,43,53,25
+Rajasthan,Rajsamand,2001,15,16,13
+Rajasthan,Sawai Madhopur,2001,23,19,19
+Rajasthan,Sikar,2001,46,31,13
+Rajasthan,Sirohi,2001,31,35,22
+Rajasthan,Tonk,2001,19,32,17
+Rajasthan,Udaipur,2001,67,101,43
+Sikkim,East,2001,13,7,7
+Sikkim,North,2001,1,0,0
+Sikkim,South,2001,4,3,1
+Sikkim,West,2001,1,1,0
+Tamil Nadu,Ariyalur,2001,24,41,6
+Tamil Nadu,Chengai,2001,78,98,20
+Tamil Nadu,Chennai,2001,91,298,28
+Tamil Nadu,Chennai Rly.,2001,5,1,0
+Tamil Nadu,Coimbatore Rural,2001,77,49,18
+Tamil Nadu,Coimbatore Urban,2001,16,20,4
+Tamil Nadu,Cuddalore,2001,60,177,16
+Tamil Nadu,Dharmapuri,2001,88,88,17
+Tamil Nadu,Dindigul,2001,72,74,14
+Tamil Nadu,Erode,2001,63,22,9
+Tamil Nadu,Kanchipuram,2001,45,61,21
+Tamil Nadu,Kanyakumari,2001,33,65,6
+Tamil Nadu,Karur,2001,28,12,4
+Tamil Nadu,Madurai Rural,2001,64,51,13
+Tamil Nadu,Madurai Urban,2001,34,53,2
+Tamil Nadu,Nagapattinam,2001,36,74,12
+Tamil Nadu,Namakkal,2001,36,31,7
+Tamil Nadu,Nilgiris,2001,16,15,8
+Tamil Nadu,Perambalur,2001,10,16,3
+Tamil Nadu,Pudukottai,2001,30,30,5
+Tamil Nadu,Ramnathapuram,2001,33,52,13
+Tamil Nadu,Salem Rural,2001,78,43,8
+Tamil Nadu,Salem Urban,2001,12,14,2
+Tamil Nadu,Sivagangai,2001,26,51,5
+Tamil Nadu,Thanjavur,2001,49,74,0
+Tamil Nadu,Theni,2001,16,17,4
+Tamil Nadu,Thirunelveli Rural,2001,74,124,57
+Tamil Nadu,Thirunelveli Urban,2001,12,49,3
+Tamil Nadu,Thiruvallur,2001,34,56,16
+Tamil Nadu,Thiruvannamalai,2001,44,34,5
+Tamil Nadu,Thiruvarur,2001,31,56,7
+Tamil Nadu,Thoothugudi,2001,69,98,12
+Tamil Nadu,Trichy Rly.,2001,0,0,0
+Tamil Nadu,Trichy Rural,2001,52,40,6
+Tamil Nadu,Trichy Urban,2001,24,19,5
+Tamil Nadu,Vellore,2001,78,56,13
+Tamil Nadu,Villupuram,2001,67,92,37
+Tamil Nadu,Virudhunagar,2001,57,53,17
+Tripura,Dhalai,2001,35,0,11
+Uttar Pradesh,Agra,2001,153,162,66
+Uttar Pradesh,Aligarh,2001,229,242,50
+Uttar Pradesh,Allahabad,2001,167,224,42
+Uttar Pradesh,Ambedkar Nagar,2001,46,49,19
+Uttar Pradesh,Auraiya,2001,53,53,11
+Uttar Pradesh,Azamgarh,2001,120,103,11
+Uttar Pradesh,Badaun,2001,239,272,47
+Uttar Pradesh,Baghpat,2001,89,160,15
+Uttar Pradesh,Bahraich,2001,43,49,14
+Uttar Pradesh,Ballia,2001,55,91,18
+Uttar Pradesh,Banda,2001,75,53,27
+Uttar Pradesh,Barabanki,2001,88,85,41
+Uttar Pradesh,Bareilly,2001,272,331,93
+Uttar Pradesh,Basti,2001,48,51,18
+Uttar Pradesh,Bijnor,2001,124,113,38
+Uttar Pradesh,Bulandshahar,2001,250,209,31
+Uttar Pradesh,Chandoli,2001,35,30,4
+Uttar Pradesh,Chitrakoot Dham,2001,28,16,8
+Uttar Pradesh,Deoria,2001,48,97,7
+Uttar Pradesh,Etah,2001,240,364,57
+Uttar Pradesh,Etawah,2001,82,92,20
+Uttar Pradesh,Faizabad,2001,77,48,22
+Uttar Pradesh,Fatehgarh,2001,120,86,9
+Uttar Pradesh,Fatehpur,2001,132,56,28
+Uttar Pradesh,Firozabad,2001,135,169,22
+Uttar Pradesh,Gautambudh Nagar,2001,92,60,16
+Uttar Pradesh,Ghaziabad,2001,230,381,31
+Uttar Pradesh,Ghazipur,2001,46,58,6
+Uttar Pradesh,Gonda,2001,68,101,18
+Uttar Pradesh,Gorakhpur,2001,96,74,13
+Uttar Pradesh,Hardoi,2001,182,153,70
+Uttar Pradesh,Hathras,2001,86,94,16
+Uttar Pradesh,J.P.Nagar,2001,112,72,23
+Uttar Pradesh,Jalaun,2001,83,79,6
+Uttar Pradesh,Jaunpur,2001,56,85,11
+Uttar Pradesh,Jhansi,2001,76,48,18
+Uttar Pradesh,Kannauj,2001,66,68,8
+Uttar Pradesh,Kanpur Dehat,2001,85,67,21
+Uttar Pradesh,Kanpur Nagar,2001,210,198,47
+Uttar Pradesh,Kaushambi,2001,77,45,26
+Uttar Pradesh,Khiri,2001,172,178,83
+Uttar Pradesh,Kushi Nagar,2001,69,48,7
+Uttar Pradesh,Lalitpur,2001,25,18,20
+Uttar Pradesh,Lucknow,2001,166,189,62
+Uttar Pradesh,Maharajganj,2001,39,22,13
+Uttar Pradesh,Mahoba,2001,56,36,12
+Uttar Pradesh,Mainpuri,2001,136,151,13
+Uttar Pradesh,Mathura,2001,125,170,25
+Uttar Pradesh,Mau,2001,49,49,17
+Uttar Pradesh,Meerut,2001,275,239,28
+Uttar Pradesh,Mirzapur,2001,44,67,16
+Uttar Pradesh,Moradabad,2001,213,171,44
+Uttar Pradesh,Muzaffarnagar,2001,324,255,54
+Uttar Pradesh,Pilibhit,2001,115,233,64
+Uttar Pradesh,Pratapgarh,2001,76,123,18
+Uttar Pradesh,Raibareilly,2001,87,63,58
+Uttar Pradesh,Rampur,2001,89,98,22
+Uttar Pradesh,Saharanpur,2001,101,128,41
+Uttar Pradesh,Sant Kabirnagar,2001,16,16,9
+Uttar Pradesh,Shahjahanpur,2001,196,223,55
+Uttar Pradesh,Shrawasti,2001,35,30,13
+Uttar Pradesh,Sidharthnagar,2001,13,18,12
+Uttar Pradesh,Sitapur,2001,162,139,85
+Uttar Pradesh,Sonbhadra,2001,33,23,5
+Uttar Pradesh,St.Ravidasnagar,2001,21,24,1
+Uttar Pradesh,Sultanpur,2001,103,154,29
+Uttar Pradesh,Unnao,2001,147,141,53
+Uttar Pradesh,Varanasi,2001,78,89,27
+Uttarakhand,Almora,2001,18,12,4
+Uttarakhand,Bageshwar,2001,10,7,1
+Uttarakhand,Chamoli,2001,13,6,3
+Uttarakhand,Champawat,2001,3,3,0
+Uttarakhand,Dehradun,2001,32,66,12
+Uttarakhand,Haridwar,2001,94,75,13
+Uttarakhand,Nainital,2001,36,31,5
+Uttarakhand,Pauri Garhwal,2001,26,9,7
+Uttarakhand,Pithoragarh,2001,8,3,7
+Uttarakhand,Rudra Prayag,2001,5,2,2
+Uttarakhand,Tehri Garhwal,2001,7,10,2
+Uttarakhand,Udhamsingh Nagar,2001,54,44,10
+Uttarakhand,Uttarkashi,2001,10,11,8
+West Bengal,24 Parganas North,2001,202,23,53
+West Bengal,24 Parganas South,2001,107,5,47
+West Bengal,Asansol,2001,9,7,0
+West Bengal,Bankura,2001,35,32,26
+West Bengal,Birbhum,2001,76,40,43
+West Bengal,Burdwan,2001,133,4,46
+West Bengal,Coochbehar,2001,37,1,36
+West Bengal,Dakshin Dinajpur,2001,25,0,10
+West Bengal,Darjeeling,2001,46,3,20
+West Bengal,Hooghly,2001,81,22,29
+West Bengal,Howrah,2001,28,8,2
+West Bengal,Howrah City,2001,21,8,7
+West Bengal,Howrah G.R.P.,2001,18,0,1
+West Bengal,Jalpaiguri,2001,152,30,54
+West Bengal,Kolkata,2001,65,152,19
+West Bengal,Malda,2001,55,27,40
+West Bengal,Midnapur,2001,120,20,84
+West Bengal,Murshidabad,2001,130,10,66
+West Bengal,Nadia,2001,124,0,71
+West Bengal,Purulia,2001,69,0,23
+West Bengal,Sealdah G.R.P.,2001,23,6,1
+West Bengal,Siliguri G.R.P.,2001,2,0,0
+West Bengal,Uttar Dinajpur,2001,36,51,31
+A & N Islands,Andaman,2001,13,0,3
+A & N Islands,Nicobar,2001,0,0,0
+Chandigarh,Chandigarh,2001,15,10,18
+D & N Haveli,D And N Haveli,2001,3,2,6
+Daman & Diu,Daman,2001,6,5,0
+Daman & Diu,Diu,2001,1,0,0
+Delhi Ut,Central,2001,29,42,28
+Delhi Ut,Delhi Ut Total,2001,547,510,381
+Delhi Ut,G.R.P.(Rly),2001,11,4,1
+Delhi Ut,I.G.I. Airport,2001,2,2,0
+Delhi Ut,New Delhi,2001,11,14,9
+Delhi Ut,North East,2001,62,79,36
+Delhi Ut,North West,2001,134,107,103
+Delhi Ut,S.T.F.,2001,0,0,0
+Delhi Ut,South West,2001,61,52,42
+Lakshadweep,Lakshadweep,2001,1,0,0
+Puducherry,Pondicherry,2001,25,32,9
+Chhattisgarh,Kabirdham,2002,18,6,20
+Jammu & Kashmir,Handwara,2002,47,72,0
+West Bengal,Kharagpur G.R.P.,2002,3,3,0
+West Bengal,Paschim Midnapur,2002,86,38,53
+West Bengal,Purab Midnapur,2002,38,1,25
+Delhi Ut,Spl Cell,2002,0,1,0
+Andhra Pradesh,Cyberabad,2003,155,101,31
+Arunachal Pradesh,K/Kumey,2003,4,1,0
+Arunachal Pradesh,Upper Dibang Valley,2003,2,1,0
+Chhattisgarh,Narayanpur,2003,11,13,3
+Kerala,Ernakulam Commr.,2003,21,28,11
+Kerala,Ernakulam Rural,2003,25,38,22
+Kerala,Kozhikode Commr.,2003,14,14,10
+Kerala,Kozhikode Rural,2003,8,17,24
+Kerala,Trivandrum Commr.,2003,10,53,17
+Kerala,Trivandrum Rural,2003,37,27,28
+Madhya Pradesh,Anuppur,2003,10,4,10
+Madhya Pradesh,Ashok Nagar,2003,24,24,33
+Madhya Pradesh,Burhanpur,2003,6,2,7
+Tamil Nadu,Krishnagiri,2004,46,28,9
+Assam,Baska,2005,21,11,9
+Assam,Chirang,2005,17,0,17
+Assam,Udalguri,2005,39,5,21
+Chhattisgarh,Surajpur,2005,56,17,41
+Haryana,Mewat,2005,19,34,34
+Punjab,Ferozpur,2005,43,38,24
+Tamil Nadu,Viluppuram,2005,68,83,49
+Delhi Ut,Igi Airport,2005,1,0,1
+Delhi Ut,North-East,2005,51,63,106
+Delhi Ut,North-West,2005,128,121,190
+Delhi Ut,South-West,2005,47,51,71
+Andhra Pradesh,Vijayawada City,2006,43,50,21
+Haryana,Palwal,2006,33,24,26
+Jammu & Kashmir,Border District,2006,9,15,6
+Maharashtra,Mumbai Commr.,2006,239,135,165
+Manipur,Imphal East,2006,31,57,3
+Manipur,Imphal West,2006,41,74,9
+Punjab,Sas Ngr,2006,30,29,10
+Rajasthan,Jaipur East,2006,18,21,19
+Rajasthan,Jaipur North,2006,22,25,18
+Rajasthan,Jaipur Rural,2006,59,38,34
+Rajasthan,Jaipur South,2006,19,17,21
+Rajasthan,Jodhpur City,2006,15,42,18
+Rajasthan,Jodhpur Rural,2006,29,35,19
+Rajasthan,Kota City,2006,11,134,18
+Rajasthan,Kota Rural,2006,21,90,19
+Delhi Ut,Grp(Rly),2006,5,2,1
+Delhi Ut,Stf,2006,0,10,0
+Puducherry,Karaikal,2006,2,2,1
+Jharkhand,Khunti,2007,91,9,15
+Jharkhand,Ramgarh,2007,41,13,28
+Nagaland,Longleng,2007,1,2,0
+Punjab,Amritsar Rural,2007,31,24,10
+A & N Islands,A And N Islands,2007,15,19,3
+Delhi Ut,Outer,2007,102,96,121
+Gujarat,Tapi,2008,21,5,3
+Jammu & Kashmir,Bandipora,2008,3,3,1
+Jammu & Kashmir,Kishtwar,2008,10,22,4
+Jammu & Kashmir,Samba,2008,6,26,2
+Jammu & Kashmir,Shopian,2008,7,23,6
+Karnataka,Cbpura,2008,39,44,7
+Karnataka,Ramanagar,2008,92,60,17
+Madhya Pradesh,Alirajpur,2008,59,40,41
+Madhya Pradesh,Singrauli,2008,26,17,40
+Manipur,Cid,2008,0,0,0
+Odisha,Dcp Bbsr,2008,51,58,36
+Odisha,Dcp Ctc,2008,14,21,18
+Punjab,Ludhiana Rural,2008,16,20,14
+Punjab,Sbs Nagar,2008,20,12,14
+Tamil Nadu,Chennaisuburban,2008,74,76,21
+Uttar Pradesh,Kanshiram Nagar,2008,60,54,19
+Delhi Ut,Caw,2008,0,0,0
+Delhi Ut,Crime Branch,2008,1,1,0
+Delhi Ut,Eow,2008,0,0,0
+Delhi Ut,South-East,2008,66,37,61
+Puducherry,Puducherry,2008,30,29,7
+Arunachal Pradesh,Anjaw,2009,0,0,0
+Himachal Pradesh,Baddipolicedist,2009,10,1,2
+Jammu & Kashmir,Railways Kmr,2009,0,0,0
+Tamil Nadu,Tiruppur,2009,58,29,12
+Andhra Pradesh,Guntur Urban,2010,43,26,12
+Andhra Pradesh,Rajahmundry,2010,21,20,10
+Andhra Pradesh,Tirupathi Urban,2010,31,35,10
+Andhra Pradesh,Warangal Urban,2010,21,16,17
+Arunachal Pradesh,Rural,2010,3,2,3
+Gujarat,Cid Crime,2010,3,0,1
+Jammu & Kashmir,Crime Kashmir,2010,0,0,0
+Jammu & Kashmir,Sopore,2010,30,67,9
+Karnataka,Yadgiri,2010,23,51,5
+Punjab,Cp Amritsar,2010,53,71,24
+Punjab,Cp Jalandhar,2010,29,51,22
+Punjab,Cp Ludhiana,2010,90,92,55
+Punjab,Jalandhar Rural,2010,46,73,39
+Rajasthan,G.R.P. Ajmer,2010,6,3,0
+Rajasthan,G.R.P. Jodhpur,2010,2,1,2
+Uttar Pradesh,Csm Nagar,2010,30,28,30
+Uttar Pradesh,Ramabai Nagar,2010,30,33,12
+Chhattisgarh,Gariyaband,2011,28,14,21
+Gujarat,Kutch (East(G)),2011,35,11,8
+Gujarat,Kutch (West-Bhuj),2011,24,12,15
+Gujarat,W.Rly Ahmedabad,2011,7,0,0
+Gujarat,W.Rly Vadodara,2011,5,1,0
+Jammu & Kashmir,Railways Jammu,2011,0,1,0
+Jammu & Kashmir,Railways Kashmir,2011,0,0,0
+Karnataka,Mangalore City,2011,22,20,16
+Kerala,Kollam Commr.,2011,14,41,51
+Kerala,Kollam Rural,2011,29,25,46
+Kerala,Thrissur Commr.,2011,8,17,28
+Kerala,Thrissur Rural,2011,24,41,69
+Punjab,Fazilka,2011,22,21,21
+Punjab,Pathankot,2011,12,9,10
+Rajasthan,G.R.P.Ajmer,2011,6,6,2
+Rajasthan,G.R.P.Jodhpur,2011,4,1,0
+Rajasthan,Jaipur West,2011,27,19,23
+Uttar Pradesh,Bhim Nagar,2011,72,90,34
+Uttar Pradesh,Panchshil Nagar,2011,61,72,18
+Uttar Pradesh,Prabuddh Nagar,2011,57,65,11
+Assam,Baksa,2012,38,7,33
+Assam,Bieo,2012,0,0,0
+Assam,Hamren,2012,9,0,3
+Chhattisgarh,Balod,2012,15,2,22
+Chhattisgarh,Baloda Bazar,2012,24,18,45
+Chhattisgarh,Bemetara,2012,12,15,24
+Chhattisgarh,Kondagaon,2012,21,8,11
+Chhattisgarh,Mungeli,2012,18,4,6
+Chhattisgarh,Sukma,2012,24,30,1
+Haryana,Ambala Rural,2012,13,15,11
+Haryana,Ambala Urban,2012,15,16,21
+Jammu & Kashmir,Railways Katra,2012,0,0,0
+Rajasthan,Jodhpur East,2012,12,27,20
+Rajasthan,Jodhpur West,2012,15,42,20
+Tripura,Gomati,2012,18,8,26
+Tripura,Khowai,2012,12,4,10
+Tripura,Sipahijala,2012,12,9,23
+Tripura,Unakoti,2012,9,8,26
+West Bengal,Bdn Cp,2012,15,35,13
+West Bengal,Bkp Cp,2012,89,49,36
+West Bengal,Jhargram,2012,30,23,21
+West Bengal,Siliguri_Pc,2012,32,6,21
+A & N Islands,Car,2012,2,0,0
